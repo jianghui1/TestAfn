@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "19e2814f-dc64-0744-9115-d3aad7cffb6b++636",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A627B777-8BCC-424E-92F6-97EDBF5EA5BF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : "%E8%87%AA%E6%B5%8B\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestAfn",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestAfn\/TestAfn.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.liqu.com:8443\/svn\/APP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19e2814f-dc64-0744-9115-d3aad7cffb6b++636"
+    }
+  ]
+}
